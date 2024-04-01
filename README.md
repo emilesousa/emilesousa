@@ -10,7 +10,7 @@
 ##
 <div>
 <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=emilesousa&show_icons=true&theme=tokyonight&pinclude_all_commits=true&count_private=true"/>
-<img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emilesousa&hide_progress=true&theme=tokyonight"/>
+<img height="160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emilesousa&hide_progress=true&theme=tokyonight"/>
 </div>
 
 
