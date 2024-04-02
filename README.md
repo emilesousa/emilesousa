@@ -22,6 +22,7 @@
   <img align="center" alt="Mile-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Mile-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"/>
   <img align="center" alt="Mile-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
+  ![Snake animation](https://github.com/emilesousa/emilesousa/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
