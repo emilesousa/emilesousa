@@ -10,7 +10,7 @@
 ##
 <div>
 <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=emilesousa&show_icons=true&theme=tokyonight&pinclude_all_commits=true&count_private=true"/>
-<img height="160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emilesousa&hide_progress=true&theme=tokyonight"/>
+<img height="140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emilesousa&hide_progress=true&theme=tokyonight"/>
 </div>
 
 
@@ -21,7 +21,6 @@
   <img align="center" alt="Mile-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Mile-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"/>
   <img align="center" alt="Mile-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
-
 </div>
 
 
